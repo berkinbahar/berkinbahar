@@ -4,7 +4,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=berkinbahar)
+<a href="https://github.com/berkinbahar/Recommender-System"><img src="![](https://komarev.com/ghpvc/?username=berkinbahar)"></a>.
 
 - 🔭 I’m a passionate Data Scientist 
 - 🌱 I’m currently learning AWS Cloud Data Engineering
@@ -16,6 +16,11 @@
 
 # Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux,mysql,postgresql,py,)](https://skillicons.dev)
+
+# Projects
+![Ekran Alıntısı](https://github.com/berkinbahar/berkinbahar/assets/117379942/149bf43c-086f-4d96-92af-ce33774239b8)
+
+
 <!--
 **berkinbahar/berkinbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
