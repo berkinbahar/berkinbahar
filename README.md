@@ -7,7 +7,7 @@
 <a href="https://github.com/berkinbahar/Recommender-System"><img src="![](https://komarev.com/ghpvc/?username=berkinbahar)"></a>.
 
 - 🔭 I’m a passionate Data Scientist 
-- 🌱 I’m currently learning AWS Cloud Data Engineering
+- 🌱 I’m currently learning Data Analytic
 - 💬 Ask me about anything about Data Science and Data Engineering
 - 📫 How to reach me: berkinbahar11@gmail.com
 - 📝 I regularly write on https://medium.com/@berkinbahar11
