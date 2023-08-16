@@ -8,7 +8,7 @@
 
 - 🔭 I’m a passionate Data Scientist 
 - 🌱 I’m currently learning Data Analytic
-- 💬 Ask me about anything about Data Science and Data Engineering
+- 💬 Ask me about anything about Data
 - 📫 How to reach me: berkinbahar11@gmail.com
 - 📝 I regularly write on https://medium.com/@berkinbahar11
 
